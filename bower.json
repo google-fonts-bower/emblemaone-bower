@@ -1,0 +1,17 @@
+{
+    "name": "emblemaone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Riccardo De Franceschi"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/emblemaone-bower.git"
+    },
+    "description": "Emblema One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
